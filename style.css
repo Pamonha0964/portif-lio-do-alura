@@ -1,0 +1,21 @@
+body {
+    background-color: #202020;
+    color: white;
+}
+
+.card {
+    background-color: #303030;
+    border-color: #404040;
+}
+
+.card-body {
+    color: white;
+}
+
+.card-title {
+    color: white;
+}
+
+.card-text {
+    color: #e0e0e0;
+}
